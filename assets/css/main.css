@@ -1,0 +1,110 @@
+html, body {
+  height: 100%;
+  color: #FFFFFF;
+  font-size: 18px;
+}
+.navbar-brand {
+  font-family: 'Germania One', cursive;
+  color: #FFFFFF;
+}
+
+.navbar {
+  background-color: #722872;
+}
+
+.nav-link {
+  color: #777777;
+}
+
+.active {
+  background-color: #FFFFFF;
+  color: #555555;
+}
+
+.container-fluid {
+  background-color: #888888;
+  min-height: 90%;
+  overflow: auto;
+}
+
+.wrapper {
+   background-color: #AAAAAA;
+   padding: 70px 30px 15px 30px;
+}
+
+.title {
+  border-top: 4px solid ;
+  padding-top: 30px;
+}
+
+.portfolio-section {
+  color: #888888;
+  padding: 30px 50px;
+  background-color: #EEEEEE;
+}
+
+.portfolio-img {
+  margin-bottom: 50px;
+}
+
+.portfolio-heading {
+  margin-bottom: 30px;
+}
+
+.divider {
+  border-bottom: 4px solid #888888;
+}
+
+.separator {
+  margin-bottom: 50px;
+}
+
+.form-control {
+  background-color: #EEEEEE;
+  border: none;
+  border-bottom: 1px solid #888888;
+  color: #888888;
+  font-size: 20px;
+}
+
+.btn {
+  color: #888888;
+}
+
+.form-control:focus {
+    border: none;
+    border-bottom: 1px solid #888888;
+    outline: 0;
+    background-color: #EEEEEE;
+}
+.footer {
+  background-color: #722872;
+  font-size: 20px;
+  color: #fff;
+  padding-top: 20px;
+  min-height: 10%;
+  overflow: auto;
+}
+
+.folio-links {
+  text-decoration: none;
+}
+
+.folio-links:link {
+  color: white;
+}
+
+/* visited link */
+.folio-links:visited {
+   color: white;
+}
+
+/* mouse over link */
+.folio-links:hover {
+    color: white;
+}
+
+/* selected link */
+.folio-links:active {
+     color: white;
+}
